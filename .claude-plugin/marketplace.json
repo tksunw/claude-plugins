@@ -1,0 +1,15 @@
+{
+  "name": "tksunw",
+  "owner": { "name": "Tim Kennedy" },
+  "metadata": { "description": "Claude Code mods and plugins by Tim Kennedy" },
+  "plugins": [
+    {
+      "name": "usage-reporter",
+      "source": { "source": "github", "repo": "tksunw/usage-reporter" }
+    },
+    {
+      "name": "status-enhanced",
+      "source": { "source": "github", "repo": "tksunw/status-enhanced" }
+    }
+  ]
+}
