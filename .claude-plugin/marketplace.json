@@ -10,6 +10,10 @@
     {
       "name": "status-enhanced",
       "source": { "source": "github", "repo": "tksunw/status-enhanced" }
+    },
+    {
+      "name": "secret-guard",
+      "source": { "source": "github", "repo": "tksunw/secret-guard" }
     }
   ]
 }
